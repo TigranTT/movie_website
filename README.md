@@ -1,2 +1,0 @@
-# movie_website
-Python
