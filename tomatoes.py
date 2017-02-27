@@ -84,7 +84,7 @@ main_page_head = '''
 # The main page layout and title bar
 main_page_content = '''
   <body>
-    <!-- Trailer Video Modal -->
+    <!-- Trailer Videos Modal -->
     <div class="modal" id="trailer">
       <div class="modal-dialog">
         <div class="modal-content">
